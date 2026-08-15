@@ -1,0 +1,5 @@
+model,accuracy,f1_macro,f1_weighted,precision_macro,recall_macro,roc_auc_ovr_macro
+Baseline: Logistic Regression,0.7407,0.6549,0.742,0.6458,0.678,0.9452
+Bagging: Random Forest,0.7948,0.756,0.7916,0.7749,0.7453,0.9626
+Boosting: XGBoost,0.7899,0.7714,0.7911,0.7582,0.7913,0.966
+Stacking: RF + XGBoost -> Logistic Regression,0.7926,0.7708,0.7942,0.7523,0.798,0.9649
