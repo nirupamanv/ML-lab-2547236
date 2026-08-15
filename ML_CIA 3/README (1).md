@@ -1,10 +1,6 @@
 # ML for Social Good — Mission Earth: Air Quality Risk Classification (CIA-3)
 
-**Course:** MCA 521-4 Machine Learning | **Assessment:** CIA-3 — ML for Social Good Ensemble Challenge (25 Marks)
-**Mission:** Mission Earth (Environment) | **Student Name:** `<< YOUR NAME >>` | **Register No.:** `<< YOUR REG NO >>`
-
----
-
+**Course:** MCA 521-4 Machine Learning | **Assessment:** CIA-3 — ML for Social Good Ensemble Challenge 
 ## 1. Project Overview
 
 **Problem.** City pollution-control boards publish raw pollutant sensor readings (PM2.5, PM10, NO2,

@@ -1,7 +1,5 @@
 # Ethics Statement — AQI Risk Classification (Mission Earth)
 
-*(This is a standalone copy of the ethics discussion in Section Q4 of the notebook, provided
-separately because the CIA-3 brief lists "ethics statement" as its own required submission item.)*
 
 ## Bias / Fairness
 Monitoring stations in the CPCB dataset are concentrated in large, wealthier metros (Delhi, Mumbai,
